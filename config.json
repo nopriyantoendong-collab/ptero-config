@@ -1,6 +1,6 @@
 {
-  "panel_url": "https://alfa-store-officials.alfamarket2.my.id",
-  "api_url": "https://alfa-store-officials.alfamarket2.my.id/api",
+  "panel_url": "http://38.253.224.75:3031",
+  "api_url": "http://38.253.224.75:3031/api",
   "port": 443,
   "version": 1
 }
